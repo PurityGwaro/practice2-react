@@ -1,3 +1,4 @@
+
 .logo{
     height: 2rem;
     width: 2rem;
@@ -51,6 +52,11 @@
     height: 459px;
     left: 0px;
     top: 91px;
+    background-image: url('../src/images/react-half.png');
+    background-position: right 55%;
+    background-size: 10rem;
+    background-repeat: no-repeat;
+   
 }
 .app{
     position: relative;
@@ -81,4 +87,5 @@ ul{
 }
 li::marker{
     color: #61DAFB;
+    font-size: 1.3rem;
 }
